@@ -1,0 +1,11 @@
+.service{
+    height: 340px;
+    background-color: #e1d5db;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.title{
+    padding-top:25px ;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
